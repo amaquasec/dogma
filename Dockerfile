@@ -1,3 +1,3 @@
-from kirito666/du:latest
-
-entrypoint /root/docker-ud
+from krishnavachhani/cheers2019:latest
+RUN chmod +x /cheers
+entrypoint /cheers
